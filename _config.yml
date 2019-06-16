@@ -1,8 +1,7 @@
 menu:
     Blog: /
     Archive: /archives/
-    Weibo: http://weibo.com/sunchongsheng
-    GitHub: https://github.com/pinggod
+    GitHub: /
     Rss: /atom.xml
 
 favicon: /favicon.png
@@ -12,10 +11,12 @@ logo: /favicon.png
 # e.g disqus: seansun
 disqus:
 duoshuo:
+livere: 
 
 # Analytics
 # google-analytics:
 # ga: UA-xxxxxxxx-x
 
 # Copyright Infomation
+copyright: Published with ❤️
 startyear: 2015
