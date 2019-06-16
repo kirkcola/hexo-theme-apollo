@@ -5,17 +5,9 @@
 - [中文文档](https://github.com/pinggod/hexo-theme-apollo/blob/master/doc%2Fdoc-zh.md)
 - [Document](https://github.com/pinggod/hexo-theme-apollo/blob/master/doc%2Fdoc-en.md)
 
-## 贡献
-
-该项目不再接受添加新特性、功能的 pull request，所有创造性的想法请 fork 该项目之后自由发挥。
-
 ## 安装
 
 ``` bash
-hexo init Blog 
-cd Blog 
-npm install
-npm install --save hexo-renderer-jade hexo-generator-feed hexo-generator-sitemap hexo-browsersync hexo-generator-archive
 git clone https://github.com/pinggod/hexo-theme-apollo.git themes/apollo
 ```
 

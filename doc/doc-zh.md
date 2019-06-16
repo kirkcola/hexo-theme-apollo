@@ -33,10 +33,13 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, non numquam sae
 
 ## 评论插件
 
-Hexo-theme-apollo 支持两种评论插件：Disqus 和 Duoshuo. 请在 `themes/apollo/_config.yml` 文件中做如下配置:
+hexo-theme-apollo-k 支持两种评论插件：`disqus` 及 `livere`.
+
+请在 `themes/apollo/_config.yml` 文件中做如下配置:
 
 ```yaml
 disqus: seansun
+livere: YOUR_LIVERE_UID
 ```
 
 ## 警告块
@@ -50,11 +53,3 @@ disqus: seansun
 ```
 
 ![danger](https://cloud.githubusercontent.com/assets/9530963/11359678/489a510c-92b9-11e5-9256-341cef6999b6.png)
-
-## 图例
-
-也许你已经在我的博客中看到了很多图例：流程图、草图……也许你想问它们是怎么生成的……实际上，它们是用 Microsoft Powerpoint 制作的，可能这个答案让你有点小失望，但是你还是应该尝试用它制作一下图例，你会发现它真的很适合！
-
-## Last but not Least
-
-专注文章内容的创作胜过博客样式的美观，祝各位玩的开心:) !
